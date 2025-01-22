@@ -32,10 +32,10 @@ A comprehensive app for managing your FLL scoring and strategy. This tool featur
 ---
 
 ## 🎯 Usage Guide
-
-1. **Interactive Map:** Drag, drop, and plan your runs with a mission-focused view.  
-2. **Timer:** Hit "Start" to time your run and "Stop" to finalize.  
-3. **Save Scores:** Enter and save your scores with timestamps for future reference.  
+0. **Login:** For the statistics to work you need to log in (for obvious reasons).  
+1. **Interactive Map:** Click on any of the dots on the map to go to the represented mission.  
+2. **Timer:** Hit "Start" to time your run and "Stop" to finalize, you can score while the robot is running.  
+3. **Save Scores:** Save your scores with timestamps for future reference.  
 
 ---
 
