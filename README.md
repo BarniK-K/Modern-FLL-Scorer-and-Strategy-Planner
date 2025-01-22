@@ -4,7 +4,7 @@ A comprehensive app for managing your FLL scoring and strategy. This tool featur
 
 ---
 
-The app is available at **[fllscorer.com](https://fllscorer.com)** and works directly in your browser—no installation required.  
+🌐The app is available at **[fllscorer.com](https://fllscorer.com)** and works directly in your browser—no installation required.  
 
 ---
 
@@ -21,11 +21,12 @@ The app is available at **[fllscorer.com](https://fllscorer.com)** and works dir
 
 | **Scorer**                                                | **Bar Graph**                                            |
 |-----------------------------------------------------------|----------------------------------------------------------|
-| ![Scorer Screenshot](https://raw.githubusercontent.com/BarniK-K/Modern-FLL-Scorer-and-Strategy-Planner/refs/heads/main/images/scorer.png) | ![Bar Graph Screenshot](https://raw.githubusercontent.com/BarniK-K/Modern-FLL-Scorer-and-Strategy-Planner/refs/heads/main/images/statistics.png) |
+| <img src="https://raw.githubusercontent.com/BarniK-K/Modern-FLL-Scorer-and-Strategy-Planner/refs/heads/main/images/scorer.png" width="600" height="300" /> | <img src="https://raw.githubusercontent.com/BarniK-K/Modern-FLL-Scorer-and-Strategy-Planner/refs/heads/main/images/statistics.png" width="600" height="300" /> |
 
-| **Strategy Planner**                                      | **Coder/Interpreter (Powered by [ev3dev2-movement](https://github.com/BarniK-K/ev3dev2-movement)**     |
+| **Strategy Planner**                                      | **Coder/Interpreter**                                    |
 |-----------------------------------------------------------|----------------------------------------------------------|
-| ![Strategy Planner Screenshot](https://raw.githubusercontent.com/BarniK-K/Modern-FLL-Scorer-and-Strategy-Planner/refs/heads/main/images/strategy-planner.png) | ![Coder Screenshot](https://raw.githubusercontent.com/BarniK-K/Modern-FLL-Scorer-and-Strategy-Planner/refs/heads/main/images/coder.png) |
+| <img src="https://raw.githubusercontent.com/BarniK-K/Modern-FLL-Scorer-and-Strategy-Planner/refs/heads/main/images/strategy-planner.png" width="600" height="300" /> | <img src="https://raw.githubusercontent.com/BarniK-K/Modern-FLL-Scorer-and-Strategy-Planner/refs/heads/main/images/coder.png" width="600" height="300" /> |
+
 
 ---
 
